@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "user_demo_d6c1a991",
+      "name": "Alex Rivera",
+      "email": "demo@auraphoto.app",
+      "salt": "5aa71305cdb80854b09f258246c6a3ae",
+      "hash": "28a8da0aaa7fe3ad35d0f9e4e011777bc571e03f006fdd04990ed942094ec96bada603ebb321b2c293c0e05374d1bc33742a3d99a3b9187b671ed838d3de0e4d",
+      "storageQuotaBytes": 52428800,
+      "createdAt": "2026-11-06T14:23:00.365Z"
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo_dcc8a2f1-56b0-4d04-8410-e580efb26038",
+      "userId": "user_demo_d6c1a991",
+      "photoName": "sunset_over_mountains.jpg",
+      "storedFilename": "photo_dcc8a2f1-56b0-4d04-8410-e580efb26038_sunset_over_mountains.jpg",
+      "fileSize": 1240,
+      "fileType": "image/jpeg",
+      "uploadDate": "2026-11-06T00:23:00.366Z",
+      "isFavorite": true
+    },
+    {
+      "id": "photo_89d1349e-c3e6-4059-a37c-674f33d3c959",
+      "userId": "user_demo_d6c1a991",
+      "photoName": "coastal_ocean_waves.jpg",
+      "storedFilename": "photo_89d1349e-c3e6-4059-a37c-674f33d3c959_coastal_ocean_waves.jpg",
+      "fileSize": 1235,
+      "fileType": "image/jpeg",
+      "uploadDate": "2026-11-05T10:23:00.366Z",
+      "isFavorite": false
+    },
+    {
+      "id": "photo_8aee6450-322e-4f96-a75a-201796b12737",
+      "userId": "user_demo_d6c1a991",
+      "photoName": "minimalist_nordic_architecture.png",
+      "storedFilename": "photo_8aee6450-322e-4f96-a75a-201796b12737_minimalist_nordic_architecture.png",
+      "fileSize": 1237,
+      "fileType": "image/png",
+      "uploadDate": "2026-11-04T20:23:00.366Z",
+      "isFavorite": false
+    },
+    {
+      "id": "photo_1be9a01c-0995-4ba3-90f7-f2a97ff0ac78",
+      "userId": "user_demo_d6c1a991",
+      "photoName": "emerald_rainforest_canopy.webp",
+      "storedFilename": "photo_1be9a01c-0995-4ba3-90f7-f2a97ff0ac78_emerald_rainforest_canopy.webp",
+      "fileSize": 1235,
+      "fileType": "image/webp",
+      "uploadDate": "2026-11-04T06:23:00.366Z",
+      "isFavorite": false
+    }
+  ],
+  "tokens": [
+    {
+      "token": "268220b9d819213f05ec28695367169282f655b3fec3de8695cec67785b06207",
+      "userId": "user_demo_d6c1a991",
+      "expiresAt": 1794579783538
+    }
+  ]
+}
